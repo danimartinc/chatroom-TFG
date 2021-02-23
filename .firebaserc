@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-app-9ce7a": {
+      "hosting": {
+        "argon-design-system-angular": [
+          "chat-app-9ce7a"
+        ]
+      }
+    }
+  }
+}
